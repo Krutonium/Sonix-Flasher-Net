@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonix-Flasher-Net", "Sonix-Flasher-Net\Sonix-Flasher-Net.csproj", "{0CD81F22-EFA8-48FF-854F-944F500FF93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD81F22-EFA8-48FF-854F-944F500FF93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD81F22-EFA8-48FF-854F-944F500FF93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD81F22-EFA8-48FF-854F-944F500FF93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD81F22-EFA8-48FF-854F-944F500FF93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
